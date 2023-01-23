@@ -1,7 +1,5 @@
 # Hello 👋
 
-## My Name is YOGI
+<h2> My Name is YOGI <h2>
 
-
-## 🚀 About Me
-Kepengen jago javascript
+ <h4> Kepengen jago javascript</h4>
