@@ -16,6 +16,8 @@
   <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" /></a>
   <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" /></a>
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" /></a>
+  <a href="https://yarnpkg.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30" /></a>
+          
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogyy&show_icons=true&locale=en&layout=compact" alt="yogyy" /></p>
 
