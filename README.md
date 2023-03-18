@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yogyy</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&weight=500&pause=1000&width=435&lines=HI+%2F+.+I+m+yogyy)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from West Java</h3>
 
 - 🌱 I’m currently learning **Next JS**
@@ -6,7 +6,7 @@
 <p align="left">
 </p>
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.w3schools.com/html/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" /></a>
