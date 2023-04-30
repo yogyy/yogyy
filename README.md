@@ -31,6 +31,6 @@
   <a href="https://yarnpkg.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30" /></a>
           
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogyy&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=yogyy&show_icons=true&locale=en&layout=compact&theme=gotham&title_color=re&text_color=f1f1f1" alt="yogyy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogyy&show_icons=true&locale=en&layout=compact&theme=gotham&title_color=re&text_color=f1f1f1" alt="yogyy" /></p>
 
 
