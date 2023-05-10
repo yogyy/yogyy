@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&weight=500&pause=1000&width=435&lines=HI+%2F+.+I+m+yogyy)](https://git.io/typing-svg)
-<h3 align="center">A passionate frontend developer from West Java</h3>
+<h3 align="left">A passionate frontend developer from West Java</h3>
 
-- 🌱 I’m currently learning **Next JS**
-
-<p align="left">
-</p>
-
+- 🌊 I’m currently learning **Next JS**
 <!-- <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
