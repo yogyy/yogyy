@@ -1,6 +1,6 @@
-##Hi 👋, I'm yogyy
+## Hi 👋, My name is YOGi
 
-##A passionate frontend developer from West Java
+## A passionate Frontend Web Dev from West Java
 
 🌱 I’m currently learning **Next JS**
 
