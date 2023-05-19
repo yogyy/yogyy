@@ -10,7 +10,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogyy&show_icons=true&locale=en&layout=compact" alt="yogyy" /></p>
 <!-- [![](https://visitcount.itsvg.in/api?id=yogyy&icon=2&color=0)](https://visitcount.itsvg.in) -->
 
