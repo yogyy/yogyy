@@ -10,6 +10,10 @@ self-taught progammer and Frontend Developer based in West Java
 
 <hr />
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
-<!-- [![](https://visitcount.itsvg.in/api?id=yogyy&icon=2&color=0)](https://visitcount.itsvg.in) -->
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=yogyy&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogyy&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
