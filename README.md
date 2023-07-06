@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm YOGi</h3>
 
-Self-taught Frontend Developer | React.js/Next.js Specialist
+### Self-taught Frontend Developer | React.js/Next.js Specialist
 <br />
 Passionate self-taught frontend developer specializing in React.js and Next.js. With six months of hands-on experience, I create modern and responsive web applications. Love translating designs into intuitive user interfaces. Always eager to learn and stay up-to-date with the latest industry trends.
 
