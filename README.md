@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm YOGi</h3>
 
-### I code ReactJS/NextJS
+### I doing stuff in Reactjs
 <hr />
 <br />
 Passionate self-taught frontend developer specializing in React.js and Next.js. Experienced in building modern and responsive web applications. Skilled in translating designs into intuitive user interfaces. Eager to learn and stay up-to-date with the latest industry trends.
