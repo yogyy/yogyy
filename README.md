@@ -3,7 +3,9 @@
 ### I doing stuff in Reactjs
 <hr />
 <br />
-Passionate self-taught frontend developer specializing in React.js and Next.js. Experienced in building modern and responsive web applications. Skilled in translating designs into intuitive user interfaces. Eager to learn and stay up-to-date with the latest industry trends.
+usually building minimalist and responsive web applications.
+
+#### Please add dark mode to you documentation api.
 
 ## 💻 Fav Tech Stack:
 
