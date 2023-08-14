@@ -5,7 +5,7 @@
 <br />
 usually building minimalist and responsive web applications.
 
-#### Please add dark mode to you documentation api.
+#### Please add dark mode to your documentation API..
 
 ## 💻 Fav Tech Stack:
 
