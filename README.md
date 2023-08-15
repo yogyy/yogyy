@@ -7,7 +7,7 @@ usually building minimalist and responsive web applications.
 
 #### Please add dark mode to your documentation API..
 
-## 💻 Fav Tech Stack:
+## 💻 Mostly using:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
