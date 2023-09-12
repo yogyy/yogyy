@@ -13,9 +13,12 @@ import '@/styles/globals.css';
         hey, I'm yogyy 👋
       </h1>
       <p class="text-base leading-7">
-        I'm a frontend developer, an optimist, and a self-learner. Currently,
-        I'm immersed in frontend development with <a
-          href="https://react.dev"
+        I'm a frontend developer, an <span
+          class="italic"
+          title="no, i'm actually realistic">optimist</span
+        >, and a self-learner. Currently, I'm immersed in frontend development
+        with <a
+          href="https://react.min.dev"
           target="_blank"
           class="inline-flex gap-1 label"
           ><img src="/react.svg" alt="react icon" />React</a
@@ -24,14 +27,30 @@ import '@/styles/globals.css';
           href="https://nextjs.org"
           target="_blank"
           class="inline-flex gap-1 label"
-          ><img src="/next.svg" alt="next.js icon" />Next.js</a
+          ><img src="/next.min.svg" alt="next.js icon" />Next.js</a
         >.
-        <div class="w-full">
+        <div class="w-full relative">
           <Gallery />
         </div>
       </p>
     </section>
+    <footer class="mt-40">
+      <p class="text-base w-full justify-between flex">
+        <span class=""></span>
+        <span class="inline-flex">
+          i'm copying design <a
+            href="https://leerob.io"
+            target="_blank"
+            class="text-sky-500 ml-1 inline-flex"
+          >
+            <img src="/vercel.svg" alt="vercel svg" />leerob</a
+          >
+        </span>
+        <span
+          class="inline-flex items-end text-xs text-opacity-10 text-zinc-100"
+          >...kinda</span
+        >
+      </p>
+    </footer>
   </main>
-
-  <style></style>
 </Layout>

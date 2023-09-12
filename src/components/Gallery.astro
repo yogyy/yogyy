@@ -11,7 +11,7 @@ import { cn } from '@/lib/utils';
         class={cn(
           'relative aspect-video flex items-center justify-center',
           'hover:rounded-none transition-all duration-200',
-          `image${i} group bg-white rounded-lg`
+          `image${i} group bg-white/50 hover:bg-white/80 rounded-lg`
         )}
       >
         <Image
@@ -30,20 +30,27 @@ import { cn } from '@/lib/utils';
     ))
   }
   <div class="items-end flex flex-col justify-between">
-    <p class="text-base leading-7">don't mind just a random cashier you meet</p>
+    <p class="text-base leading-7">
+      don't mind just a random cashier you meet, <br />
+      <span class="text-xs text-opacity-10 text-zinc-600"
+        >have you seen that tiktok edit?</span
+      >
+    </p>
 
     <p class="text-xs">
-      credit <a href="https://twitter.com/inoitoh" target="_blank">@inoitoh</a>
+      credit <a
+        href="https://twitter.com/inoitoh"
+        target="_blank"
+        class="text-sky-500">@inoitoh</a
+      >
     </p>
   </div>
 </div>
 
-<!-- <p class="text-red-700 font-bold">{i}</p> -->
-<!-- <div
-  class={cn(
+<!-- why you see this?, i have no idea 
+  <div class={cn(
     'absolute w-full h-full overlay backdrop-brightness-50',
     'hover:backdrop-filter-none active:backdrop-filter-none',
     'transition duration-200'
-  )}
->
-</div> -->
+  )} /> 
+-->
