@@ -4,22 +4,39 @@ interface Props {
 }
 
 const { title } = Astro.props;
+
+const canonicalURL = new URL(Astro.url);
+const description =
+  "I'm a frontend developer, an optimist, and a self-learner. Currently, I'm immersed in frontend development with React.";
 ---
 
 <!doctype html>
 <html
   lang="en"
-  class="bg-gradient-to-br from-black via-zinc-950 to-zinc-800 min-h-screen"
+  class="bg-gradient-to-br motion-safe:animate-gradient-x from-[#12c2e9] via-[#c471ed] to-[#f64f59] min-h-screen"
 >
   <head>
-    <meta charset="UTF-8" />
-    <meta name="description" content="Astro description" />
-    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/favicon.min.svg" />
     <meta name="generator" content={Astro.generator} />
+
+    <meta name="robots" content="index,follow" />
+
+    <link rel="canonical" href={canonicalURL} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
     <title>{title}</title>
   </head>
-  <body class="flex-auto max-w-2xl mx-4 md:mx-auto">
+  <body class="bg-black/50">
     <slot />
   </body>
 </html>

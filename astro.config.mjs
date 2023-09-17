@@ -11,6 +11,6 @@ export default defineConfig({
     react(),
   ],
   image: {
-    domains: ['pbs.twimg.com'],
+    domains: ['avatars.githubusercontent.com', 'pbs.twimg.com'],
   },
 });

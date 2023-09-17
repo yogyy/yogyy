@@ -1,17 +1,37 @@
-export const navbar = [
-  'Home',
-  'Our Service',
-  'Portofolio',
-  'Testimonial',
-  'Contact Us',
+import Gh from '@/components/icons/Gh.astro';
+import Li from '@/components/icons/Li.astro';
+import Yg from '@/components/icons/Yg.astro';
+import Tw from '@/components/icons/Tw.astro';
+import Ig from '@/components/icons/Ig.astro';
+import Fb from '@/components/icons/Fb.astro';
+
+const socials = [
+  { name: 'Github', logo: Gh, link: 'https://github.com/yogyy' },
+  {
+    name: 'LinkedIn',
+    logo: Li,
+    link: 'https://www.linkedin.com/in/yogyy/',
+  },
+  {
+    name: 'Portfolio Website',
+    logo: Yg,
+    link: 'https://yogyy.vercel.app',
+  },
+  {
+    name: 'Twitter',
+    logo: Tw,
+    link: 'https://twitter.com/yogyyconst',
+  },
+  {
+    name: 'Instagram',
+    logo: Ig,
+    link: 'https://www.instagram.com/yogycons.t',
+  },
+  {
+    name: 'Facebook',
+    logo: Fb,
+    link: 'https://www.facebook.com/iogiy',
+  },
 ];
 
-export const images = [
-  'https://pbs.twimg.com/media/FzqpKQzaMAAbrWs?format=webp&name=small',
-  'https://pbs.twimg.com/media/Fzqpa77aYAEZYng?format=webp&name=small',
-  'https://pbs.twimg.com/media/FzqwqioaEAEg6Hk?format=webp&name=small',
-  'https://pbs.twimg.com/media/FzqwvloaIAAHoYM?format=webp&name=small',
-  'https://pbs.twimg.com/media/F2VJahDaYAAgh1L?format=webp&name=small',
-  'https://pbs.twimg.com/media/FqLqkPYaEAAD8F3?format=webp&name=small',
-  'https://pbs.twimg.com/media/FoFAGx9aMAAbNu2?format=webp&name=small',
-];
+export { socials };

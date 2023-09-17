@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -70,10 +70,10 @@
 
 @layer base {
   html {
-    min-width: 360px;
+    min-width: 260px;
   }
   body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   }
   main {
     max-width: 42rem;
@@ -84,7 +84,7 @@
 }
 
 @layer components {
-  .label {
-    @apply border border-neutral-700 bg-neutral-800 rounded p-1 text-sm inline-flex items-center leading-4 text-neutral-100;
+  .text-gradient {
+    @apply text-transparent bg-clip-text bg-gradient-to-br motion-safe:animate-gradient-x from-[#12c2e9] via-[#c471ed] to-[#f64f59];
   }
 }
