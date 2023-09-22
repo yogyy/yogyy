@@ -1,13 +1,13 @@
 <h3>Hi 👋, I'm YOGi</h3>
 
-### I doing stuff in Reactjs
+### I doing stuff in Reactjs ###
 <hr />
 <br />
 usually building minimalist and responsive web applications.
 
-#### Please add dark mode to your documentation API..
+#### Please add dark mode to your documentation API.. ####
 
-## 💻 Mostly using:
+## 💻 Mostly using: ##
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
