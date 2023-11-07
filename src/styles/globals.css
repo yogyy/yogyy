@@ -72,9 +72,11 @@
   html {
     min-width: 260px;
   }
+
   body {
     font-family: 'Ubuntu', sans-serif;
   }
+
   main {
     max-width: 42rem;
     color: #d4d4d4;
@@ -85,6 +87,6 @@
 
 @layer components {
   .text-gradient {
-    @apply text-transparent bg-clip-text bg-gradient-to-br motion-safe:animate-gradient-x from-[#12c2e9] via-[#c471ed] to-[#f64f59];
+    @apply text-transparent bg-clip-text bg-gradient-to-br from-[#12c2e9] via-[#c471ed] to-[#f64f59];
   }
 }
