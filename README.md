@@ -5,7 +5,7 @@
 <br />
 usually building minimalist and responsive web applications.
 
-#### Please add dark mode to your documentation API.. ####
+#### Please add dark mode to your documentation.. ####
 
 ## 💻 Mostly using: ##
 
