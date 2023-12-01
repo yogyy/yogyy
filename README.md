@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm YOGi</h3>
 
-### I doing stuff in Reactjs ###
+### doing stuff in Reactjs ###
 <hr />
 <br />
 usually building minimalist and responsive web applications.
