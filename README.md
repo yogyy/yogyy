@@ -9,7 +9,7 @@ usually building minimalist and responsive web applications.
 
 ## 💻 Mostly using: ##
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mysql,react,nextjs,tailwind)](https://skillicons.dev)
 
 <hr />
     
