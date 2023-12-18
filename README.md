@@ -3,7 +3,7 @@
 ### doing stuff in Reactjs ###
 <hr />
 <br />
-usually building minimalist and responsive web applications.
+crafting minimalist and responsive web applications
 
 #### Please add dark mode to your documentation.. ####
 
