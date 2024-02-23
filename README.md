@@ -19,7 +19,7 @@ crafting minimalist and responsive web applications
 
 ## 🤔 interested in
 
-[![My Skills](https://skillicons.dev/icons?i=go,nest,docker,vite,vue,nuxtjs)](https://skillicons.dev)
+[![curious](https://skillicons.dev/icons?i=go,docker,astro,nest,vue,nuxtjs)](https://skillicons.dev)
 
   <details>
   <summary>Github Stats ⚡</summary>
