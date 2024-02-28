@@ -4,7 +4,8 @@
 
 <hr />
 <br />
-crafting minimalist and responsive web applications
+
+Craft stunning, adaptable web apps that captivate users on any device.
 
 #### Please add dark mode to your documentation..
 
