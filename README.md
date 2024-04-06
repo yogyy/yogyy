@@ -3,9 +3,6 @@
 ### doing stuff in Reactjs
 
 <hr />
-<br />
-
-Craft stunning, adaptable web apps that captivate users on any device.
 
 #### Please add dark mode to your documentation..
 
