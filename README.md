@@ -1,6 +1,6 @@
-<h3>Hi 👋, I'm YOGi</h3>
+### Hi 👋, I'm YOGi
 
-### doing stuff in Reactjs
+### i do stuff in reactjs
 
 <hr />
 
@@ -8,7 +8,7 @@
 
 ## 💻 Mostly using:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,mysql,postgres,prisma,react,nextjs,tailwind&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,postgres,prisma,react,nextjs,tailwind)](https://skillicons.dev)
 
 <hr />
 
@@ -17,7 +17,7 @@
 
 ## 🤔 interested in
 
-[![curious](https://skillicons.dev/icons?i=go,docker,astro,nest,vue,nuxtjs)](https://skillicons.dev)
+[![curious](https://skillicons.dev/icons?i=go,docker,nest,vue)](https://skillicons.dev)
 
   <details>
   <summary>Github Stats ⚡</summary>
