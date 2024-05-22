@@ -8,7 +8,7 @@
 
 <h3>💻 Mostly using :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,postgres,prisma,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,postgres,react,nextjs,tailwind)](https://skillicons.dev)
 
 <details>
 <summary>Others</summary>
