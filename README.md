@@ -1,6 +1,4 @@
-<h3>Hi!, I'm YOGi</h3>
-
-<h3>i do stuff in reactjs</h3>
+<h3>Hello!, i do stuff in reactjs</h3>
 
 <hr />
 
