@@ -1,4 +1,4 @@
-<h3>Hello!, i do stuff in reactjs</h3>
+<h3>Hello!, I work with ReactJS.</h3>
 
 <hr />
 
