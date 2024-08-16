@@ -2,7 +2,7 @@
 
 <hr />
 
-#### Please add dark mode to your documentation..
+#### dark mode in your docs would be better..
 
 <h3>💻 Mostly using :</h3>
 
