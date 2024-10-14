@@ -13,7 +13,7 @@
 
 <h3>interested in :</h3>
 
-[![curious](https://skillicons.dev/icons?i=go,docker,nest,vue)](https://skillicons.dev)
+[![curious](https://skillicons.dev/icons?i=go,docker,svelte,vue)](https://skillicons.dev)
 
   <details>
   <summary>Github Stats ⚡</summary>
