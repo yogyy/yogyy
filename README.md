@@ -1,4 +1,4 @@
-<h3>Hello!, Ramadan Kareem.</h3>
+<h3>Happy Eid Mubarak.</h3>
 
 <hr />
 
