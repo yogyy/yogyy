@@ -1,4 +1,4 @@
-<h3>Happy Eid Mubarak.</h3>
+<h3>Wazzup Beijing</h3>
 
 <hr />
 
