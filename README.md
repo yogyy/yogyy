@@ -1,4 +1,4 @@
-dark mode in your docs would be better..
+dark mode in your docs would be nice..
 
 <h3>Mostly using :</h3>
 
